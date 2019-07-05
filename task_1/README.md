@@ -51,3 +51,15 @@ Tip.
 3. 평가 방법
 > 제출된 과제에 대해 주관적으로 평가합니다.
  ㄴ 평가된 결과는 차주 월요일날 상위 3명에 대해 공개합니다.
+
+
+ ### 결과물 이미지
+ 1. UsecaseDiagram
+ <img src="images/UseCaseDiagram.png">
+
+ 2. User 주문 Flow Chart
+ <img src="images/UserFlowChart.png>
+
+ 3. 쇼핑몰 ERD
+ <img src="images/mall_erd.png">
+ 
