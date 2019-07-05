@@ -53,7 +53,7 @@ Tip.
  ㄴ 평가된 결과는 차주 월요일날 상위 3명에 대해 공개합니다.
 
 ================================================================================
- ## 결과물 이미지
+ ## 결과 산출
  #### 1. UsecaseDiagram
  <img src="images/UseCaseDiagram.png">
 
@@ -63,3 +63,5 @@ Tip.
  #### 3. 쇼핑몰 ERD
  <img src="images/mall_erd.png">
  
+ #### 4. Usercase 시나리오 및 정리 PPT 자료 링크
+[Usercase 시나리오 및 정리  PPT](4.Usecase 시나리오 및 정리.pptx)
