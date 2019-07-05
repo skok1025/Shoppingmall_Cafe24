@@ -54,12 +54,12 @@ Tip.
 
 
  ### 결과물 이미지
- 1. UsecaseDiagram
+ #### 1. UsecaseDiagram
  <img src="images/UseCaseDiagram.png">
 
- 2. User 주문 Flow Chart
- <img src="images/UserFlowChart.png>
+ #### 2. User 주문 Flow Chart
+ <img src="images/UserFlowChart.png">
 
- 3. 쇼핑몰 ERD
+ #### 3. 쇼핑몰 ERD
  <img src="images/mall_erd.png">
  
