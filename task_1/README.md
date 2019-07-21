@@ -64,4 +64,4 @@ Tip.
  <img src="images/mall_erd.png">
  
  #### 4. Usercase 시나리오 및 정리 PPT 자료 링크
-[Usercase 시나리오 및 정리  PPT](4.Usecase 시나리오 및 정리.pptx)
+[Usercase 시나리오 및 정리  PPT](https://drive.google.com/open?id=1juksulH4vhiXUaxoeZ979RDoGaJ0G9_W)
